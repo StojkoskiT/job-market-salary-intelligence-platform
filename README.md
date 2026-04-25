@@ -18,7 +18,7 @@ Data Science Job Salaries dataset (~100k records)
 - Job titles such as ML Engineer and AI Lead command top salaries
 
 ## 🖥️ Dashboard
-![Dashboard Screenshot](reports/figures/)
+![Dashboard Screenshot](reports/figures/) 
 
 ## ⚙️ Tech Stack
 - Python (Pandas, NumPy)
